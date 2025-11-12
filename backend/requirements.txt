@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+torch
+torchvision
+# Note: torch with CUDA specific wheel should be installed if you want GPU support.
+# Example for CUDA 11.8 (replace with appropriate matching wheel):
+# pip install --index-url https://download.pytorch.org/whl/cu118 torchaudio torch==2.2.0+cu118 torchvision --upgrade
