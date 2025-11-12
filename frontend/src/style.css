@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  margin: 1rem;
+  color: #111;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
